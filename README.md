@@ -1,8 +1,6 @@
 # WebsScraper-Aurodas
 
-This project is a Python-based web scraper designed to extract job listings from Aurodas.lt.
-
-It automates the process of collecting vacancy data, making it easier to analyze and monitor available opportunities.
+This project is a Python-based web scraper designed to extract job listings from Aurodas.lt. It automates the process of collecting vacancy data, making it easier to analyze and monitor available opportunities.
 
 Libraries used:
 
