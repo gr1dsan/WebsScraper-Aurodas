@@ -8,4 +8,4 @@ Playwrigth - for browser automation and dynamic content scraping
 
 BeautifulSoup - for parsing and extracting data
 
-pandas - for organizing and exporting results
+Pandas - for organizing and exporting results
